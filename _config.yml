@@ -25,8 +25,8 @@ author:
   name             : "Wang Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "UCR"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "wyang107@ucr.edu" 
 
