@@ -16,7 +16,7 @@ Education
 
 Career
 ======
-* Java Development Engineer | R&D Department, 09/2022-09/2023
+* Java Development Engineer, 09/2022-09/2023
   * Company: Yaoshi Bang Inc
   * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
 
