@@ -21,7 +21,7 @@ repository               : "uservan/uservan.github.io" #"academicpages/academicp
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.jpg"
+  avatar           : "profile.png"
   name             : "Wang Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
