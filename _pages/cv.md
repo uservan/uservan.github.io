@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education BACKGROUND
+Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, University of California, Riverside (UCR), 2023-Present
+* B.S. in Artificial Intelligence and Technology, Central South University (CSU), 2017-2021
 
-Work experience
+Career
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The User
+* Java Development Engineer | R&D Department, 09/2022-09/2023
+  * Company: Yaoshi Bang Inc
+  * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
 
-Awards
+Honors and Awards
 =====
 - Outstanding Student of Central South University (2017-2019) 
 - First-class Scholarship (2017-2019) 
