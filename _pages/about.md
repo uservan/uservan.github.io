@@ -12,6 +12,10 @@ redirect_from:
 
 I am a student.
 
+Research Interests
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 News
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
