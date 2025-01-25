@@ -10,20 +10,21 @@ redirect_from:
 
 {% include base_path %}
 
-I am a student.
+I’m a PhD student in CWRU where I am fortunately advised by Prof. Xiaotian Han. Prior to that, I received my M.S. from [UCR](https://www.ece.ucr.edu/), and my B.S. from [Central South University](https://soa.csu.edu.cn/).
 
 Research Interests
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* My research interest lies in Natural Language Processing (NLP).
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of California, Riverside (UCR), 2023-Present
+* Ph.D in Computer Science, Case Western Reserve University (CWRU), 2025-present
+* M.S. in Electrical and Computer Engineering, University of California, Riverside (UCR), 2023-2025
 * B.S. in Artificial Intelligence and Technology, Central South University (CSU), 2017-2021
 
 News
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* [01/2025] Ph.D in Computer Science, Case Western Reserve University (CWRU)(expected)
 
 Career
 ======
