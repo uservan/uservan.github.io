@@ -227,6 +227,7 @@ defaults:
       comments: true
       share: false
       related: true
+      future: false
   # _pages
   - scope:
       path: ""
