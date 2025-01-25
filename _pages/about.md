@@ -27,6 +27,7 @@ News
 * [01/2025] Blog post: [Thinking Preference Optimization](https://uservan.github.io/posts/2025/01/blog-post-4/)
 * [01/2025] Ph.D in Computer Science, Case Western Reserve University (CWRU)
 
+
 Career
 ======
 * Java Development Engineer, 09/2022-09/2023
