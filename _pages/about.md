@@ -18,5 +18,5 @@ Research Interests
 
 News
 ======
-* [01/2025] Blog post: [Thinking Preference Optimization](https://uservan.github.io/posts/2025/01/blog-post-4/)
-* [01/2025] Ph.D in Computer Science, Case Western Reserve University (CWRU)
+* [01/2025] Blog post: [Thinking Preference Optimization](https://uservan.github.io/posts/2025/01/Thinking_Preference_Optimization/)
+* [01/2025] Start my Ph.D life in Computer Science, Case Western Reserve University (CWRU)
