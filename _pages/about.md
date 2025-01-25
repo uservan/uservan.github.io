@@ -16,7 +16,6 @@ Research Interests
 ======
 * My research focuses on large language models (LLMs), with a particular emphasis on accelerating inference and enhancing their mathematical reasoning capabilities.
 
-
 News
 ======
 * [01/2025] Blog post: [Thinking Preference Optimization](https://uservan.github.io/posts/2025/01/blog-post-4/)

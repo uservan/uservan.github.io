@@ -15,7 +15,6 @@ Education
 * M.S. in Electrical and Computer Engineering, University of California, Riverside (UCR), 2023-2025
 * B.S. in Artificial Intelligence and Technology, Central South University (CSU), 2017-2021
 
-
 Career
 ======
 * Java Development Engineer, 09/2022-09/2023
