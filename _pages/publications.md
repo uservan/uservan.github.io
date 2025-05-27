@@ -9,6 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+2025
+---
+- Wang Yang, Hongye Jin, Shaochen Zhong, Song Jiang, Qifan Wang, Vipin Chaudhary, Xiaotian Han. [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293) (ACL 2025 Findings)
 
 2020
 ---
