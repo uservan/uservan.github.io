@@ -11,8 +11,8 @@ author_profile: true
 
 2025
 ---
-- Wang Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han. [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) (COLM 2025)
-- Wang Yang, Hongye Jin, Shaochen Zhong, Song Jiang, Qifan Wang, Vipin Chaudhary, Xiaotian Han. [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293) (ACL 2025 Findings)
+- **Wang Yang**, Xiang Yue, Vipin Chaudhary, Xiaotian Han. [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) (COLM 2025)
+- **Wang Yang**, Hongye Jin, Shaochen Zhong, Song Jiang, Qifan Wang, Vipin Chaudhary, Xiaotian Han. [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293) (ACL 2025 Findings)
 
 2020
 ---
