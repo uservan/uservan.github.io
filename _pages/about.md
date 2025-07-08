@@ -18,6 +18,7 @@ Research Interests
 
 News
 ======
+* [07/2025] Our paper [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) is accepted at COLM 2025! 
 * [05/2025] Our paper [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293) is accepted at ACL 2025 Findings! 
 * [05/2025] Our paper [Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning](https://arxiv.org/abs/2505.17315) is now available on Arxiv
 * [02/2025] Our paper [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) is now available on Arxiv
