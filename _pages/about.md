@@ -12,6 +12,8 @@ redirect_from:
 
 I’m a PhD student in CWRU where I am fortunately advised by Prof. [Xiaotian Han](https://ahxt.github.io/). Prior to that, I received my M.S. from [UCR](https://www.ece.ucr.edu/), and my B.S. from [Central South University](https://soa.csu.edu.cn/).
 
+<span style="color:red;">I am open to collaboration opportunities, including visiting Ph.D. positions, research internships, and academic exchange programs.</span>
+
 Research Interests
 ======
 * My research focuses on large language models (LLMs), with a particular emphasis on accelerating inference and enhancing their mathematical reasoning capabilities.
