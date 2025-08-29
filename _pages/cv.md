@@ -23,7 +23,7 @@ Career
 
 Teaching
 ======
-- Teaching Assistant, CSDS 447 – Responsible AI Engineering, Case Western Reserve University (Spring 2025)
+- Teaching Assistant, CSDS 447 – Responsible AI Engineering, Case Western Reserve University (Fall 2025)
 - Teaching Assistant, CSDS 340 – Machine Learning, Case Western Reserve University (Spring 2025)
 
 <!-- Services
