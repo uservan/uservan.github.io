@@ -21,6 +21,14 @@ Career
   * Company: Yaoshi Bang Inc
   * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
 
+Teaching
+======
+- Teaching Assistant, CSDS 447 – Responsible AI Engineering, Case Western Reserve University (Spring 2025)
+- Teaching Assistant, CSDS 340 – Machine Learning, Case Western Reserve University (Spring 2025)
+
+<!-- Services
+====== -->
+
 Honors and Awards
 =====
 - Outstanding Student of Central South University (2017-2019) 
