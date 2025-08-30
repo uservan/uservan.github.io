@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: ""
 permalink: /cv/
@@ -28,7 +28,7 @@ Teaching
 
 <!-- Services
 ====== -->
-
+<!-- 
 Honors and Awards
 =====
 - Outstanding Student of Central South University (2017-2019) 
@@ -36,4 +36,4 @@ Honors and Awards
 - National-level Academic Scholarship (2017-2018) 
 - National Encouragement Scholarship (2018-2019)
 - The 9th “Huawei Cup” Chinese College Students Intelligent Design Competition: First Prize, 2019.
-- RoboCup China Competition: The Second Prize of Rescue Simulation Group, 2019.
+- RoboCup China Competition: The Second Prize of Rescue Simulation Group, 2019. --> -->
