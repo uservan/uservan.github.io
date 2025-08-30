@@ -20,7 +20,7 @@ Research Interests
 
 News
 ======
-<div style="max-height:220px; overflow-y:auto;">
+<div style="max-height:200px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 
 * [08/2025] Happy to be selected as a volunteer for COLM 2025!
 * [07/2025] Our paper [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) is accepted at COLM 2025! 
