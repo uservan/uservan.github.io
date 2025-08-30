@@ -20,7 +20,7 @@ Research Interests
 
 News
 ======
-<div style="max-height: 200px; overflow-y: auto; border-left: 3px solid #ccc; padding-left: 10px;">
+<div style="max-height:220px; overflow-y:auto;">
 
 * [08/2025] Happy to be selected as a volunteer for COLM 2025!
 * [07/2025] Our paper [Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/abs/2504.12329) is accepted at COLM 2025! 
@@ -30,4 +30,5 @@ News
 * [02/2025] Our paper [Thinking Preference Optimization](https://arxiv.org/abs/2502.13173) is now available on Arxiv
 * [01/2025] Blog post: [Thinking Preference Optimization](https://uservan.github.io/posts/2025/01/Thinking_Preference_Optimization/)
 * [01/2025] Start my Ph.D life in Computer Science, Case Western Reserve University (CWRU)
+
 </div>
