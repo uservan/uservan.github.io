@@ -39,6 +39,7 @@ News
   <li>[01/2025] Start my Ph.D life at CWRU</li>
 </ul>
 
+---
 
 Education
 ======
