@@ -63,8 +63,8 @@ Teaching
 
 Services
 ======
-- volunteer @ COLM2025
-- reviewer @ ICLR2026
+- volunteer @ COLM 2025
+- reviewer @ AAAI 2025, ICLR 2026
 
 Honors and Awards
 =====
