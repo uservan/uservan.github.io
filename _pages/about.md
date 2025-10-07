@@ -29,7 +29,7 @@ News
 ======
 
 <ul class="news-list">
-  <li>[10/2025] Attending COLM 2025 in Montréal! Excited to meet and chat!
+  <li>[10/2025] Attending COLM 2025 in Montréal! Excited to meet and chat!</li>
   <li>[09/2025] Our paper <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is accepted at NeurIPS 2025!</li>
   <li>[08/2025] Happy to be selected as a volunteer for COLM 2025!</li>
   <li>[07/2025] Our paper <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is accepted at COLM 2025!</li>
