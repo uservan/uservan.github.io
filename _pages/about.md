@@ -29,11 +29,12 @@ News
 ======
 
 <ul class="news-list">
+  <li>[10/2025] Happy and excited to receive the NeurIPS 2025 Financial Aid Award! See you in San Diego! 🎉</li>
   <li>[10/2025] Attending COLM 2025 in Montréal! Excited to meet and chat!</li>
-  <li>[09/2025] Our paper <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is accepted at NeurIPS 2025!</li>
-  <li>[08/2025] Happy to be selected as a volunteer for COLM 2025!</li>
-  <li>[07/2025] Our paper <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is accepted at COLM 2025!</li>
-  <li>[05/2025] Our paper <a href="https://arxiv.org/abs/2505.19293">100-LongBench</a> is accepted at ACL 2025 Findings!</li>
+  <li>[09/2025] Our paper <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is accepted at NeurIPS 2025! 🎉</li>
+  <li>[08/2025] Happy to be selected as a volunteer for COLM 2025! 🎉</li>
+  <li>[07/2025] Our paper <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is accepted at COLM 2025! 🎉</li>
+  <li>[05/2025] Our paper <a href="https://arxiv.org/abs/2505.19293">100-LongBench</a> is accepted at ACL 2025 Findings! 🎉</li>
   <li>[05/2025] <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is now on arXiv</li>
   <li>[02/2025] <a href="https://arxiv.org/abs/2504.12329">Speculative Thinking</a> is on arXiv</li>
   <li>[02/2025] <a href="https://arxiv.org/abs/2502.13173">Thinking Preference Optimization</a> is on arXiv</li>
@@ -69,6 +70,7 @@ Services
 
 Honors and Awards
 =====
+- NeurIPS 2025 Financial Aid Award
 - Conference on Language Modeling (COLM) 2025 Student Travel Grant.
 - National Encouragement Scholarship (2018-2019)
 - National-level Academic Scholarship (2017-2018)
