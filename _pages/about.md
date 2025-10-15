@@ -29,6 +29,7 @@ News
 ======
 
 <ul class="news-list">
+  <li>[10/2025] Our paper <a href="https://arxiv.org/pdf/2510.12680v1">Demystifying Hybrid Thinking</a> is on arXiv</li></li>
   <li>[10/2025] Happy and excited to receive the NeurIPS 2025 Financial Aid Award! See you in San Diego! 🎉</li>
   <li>[10/2025] Attending COLM 2025 in Montréal! Excited to meet and chat!</li>
   <li>[09/2025] Our paper <a href="https://arxiv.org/abs/2505.17315">Longer Context, Deeper Thinking</a> is accepted at NeurIPS 2025! 🎉</li>
