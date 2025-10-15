@@ -13,7 +13,7 @@ author_profile: true
 2025
 ---
 - Demystifying Hybrid Thinking: Can Llms Truly Switch Between Think And No-Think? 
-  - Shouren Wang$^*$, **Wang Yang$^*$**, Xianxuan Long, Qifan Wang, Vipin Chaudhary, Xiaotian Han. 
+  - Shouren Wang$^{*}$, **Wang Yang$^{*}$**, Xianxuan Long, Qifan Wang, Vipin Chaudhary, Xiaotian Han. 
   - Under Review [[Paper](https://arxiv.org/pdf/2510.12680v1)]
 - Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning 
   - **Wang Yang**, Zirui Liu, Hongye Jin, Qingyu Yin, Vipin Chaudhary, Xiaotian Han. 
