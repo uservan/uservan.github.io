@@ -14,7 +14,7 @@ author_profile: true
 ---
 - A Survey on Efficient Protein Language
 Models
-  - Shouren Wang, Debargha Ganguly, Vinooth Kulkarni, Wang Yang, Zhuoran Qiao, Daniel Blankenberg, Vipin Chaudhary, Xiaotian Han
+  - Shouren Wang, Debargha Ganguly, Vinooth Kulkarni, **Wang Yang**, Zhuoran Qiao, Daniel Blankenberg, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub)]
 - Demystifying Hybrid Thinking: Can Llms Truly Switch Between Think And No-Think? 
   - Shouren Wang<sup>*</sup>, **Wang Yang<sup>*</sup>**, Xianxuan Long, Qifan Wang, Vipin Chaudhary, Xiaotian Han. 
