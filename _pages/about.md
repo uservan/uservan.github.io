@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I’m a first-year PhD student in [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences) where I am fortunately advised by Prof. [Xiaotian Han](https://ahxt.github.io/). Prior to that, I received my M.S. from [University of California, Riverside](https://www.ece.ucr.edu/), and my B.S. from [Central South University](https://soa.csu.edu.cn/).
+I’m a second-year PhD student in [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences) where I am fortunately advised by Prof. [Xiaotian Han](https://ahxt.github.io/). Prior to that, I received my M.S. from [University of California, Riverside](https://www.ece.ucr.edu/), and my B.S. from [Central South University](https://soa.csu.edu.cn/).
 
 <span style="color:red;">I am open to collaboration opportunities, including visiting Ph.D. positions, research internships, and academic exchange programs.</span>
 
