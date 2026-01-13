@@ -63,6 +63,7 @@ Career
 
 Teaching
 ======
+- Teaching Assistant, CSDS 233 - Introduction to Data Structures, Case Western Reserve University (Spring 2026)
 - Teaching Assistant, CSDS 447 – Responsible AI Engineering, Case Western Reserve University (Fall 2025)
 - Teaching Assistant, CSDS 340 – Machine Learning, Case Western Reserve University (Spring 2025)
 
