@@ -14,7 +14,7 @@ author_profile: true
 ---
 - Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers? 
   - Wang Yang, Debargha Ganguly, Xinpeng Li, Chaoda Song, Shouren Wang, Vikash Singh, Vipin Chaudhary, Xiaotian Han. 
-  - Under Review [[Paper](https://arxiv.org/pdf/2510.12680v1)]
+  - Under Review [[Paper](https://arxiv.org/pdf/2601.07036)]
 
 
 2025
