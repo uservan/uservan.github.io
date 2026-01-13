@@ -70,7 +70,7 @@ Teaching
 Services
 ======
 - volunteer @ COLM 2025
-- reviewer @ AAAI 2025, ICLR 2026, ACL2026
+- reviewer @ AAAI 2025, ICLR 2026, ACL 2026
 
 Honors and Awards
 =====
