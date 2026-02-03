@@ -12,6 +12,9 @@ author_profile: true
 
 2026
 ---
+- When Domains Interact: Asymmetric and Order-Sensitive Cross-Domain Effects in Reinforcement Learning for Reasoning
+  - **Wang Yang**, Shouren Wang, Chaoda Song, Chuang Ma, Xinpeng Li, Nengbo Wang, Kaixiong Zhou, Vipin Chaudhary, Xiaotian Han
+  - Under Review [[Paper](https://arxiv.org/pdf/2602.01365)]
 - Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers 
   - **Wang Yang**, Debargha Ganguly, Xinpeng Li, Chaoda Song, Shouren Wang, Vikash Singh, Vipin Chaudhary, Xiaotian Han. 
   - Under Review [[Paper](https://arxiv.org/pdf/2601.07036)]

@@ -29,6 +29,7 @@ News
 ======
 
 <ul class="news-list">
+   <li>[02/2026] Our paper <a href="https://arxiv.org/pdf/2602.01365"> When Domains Interact</a> is on arXiv</li>
    <li>[01/2026] Our paper <a href="https://arxiv.org/pdf/2601.07036">Mid-Think</a> is on arXiv</li>
   <li>[12/2025] Attending NeurIPS 2025 in San Diego! Excited to meet and chat!</li>
   <li>[10/2025] Our paper <a href="https://arxiv.org/pdf/2510.12680v1">Demystifying Hybrid Thinking</a> is on arXiv</li>
