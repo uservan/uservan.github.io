@@ -20,7 +20,7 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
   - Under Review [[Paper](https://arxiv.org/pdf/2602.01365)]
 - Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers 
   - **Wang Yang**, Debargha Ganguly, Xinpeng Li, Chaoda Song, Shouren Wang, Vikash Singh, Vipin Chaudhary, Xiaotian Han. 
-  - Under Review [[Paper](https://arxiv.org/pdf/2601.07036)]
+  - **ACL 2026 Findings**[[Paper](https://arxiv.org/pdf/2601.07036)]
 
 
 2025
