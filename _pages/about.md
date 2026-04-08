@@ -29,6 +29,7 @@ News
 ======
 
 <ul class="news-list">
+   <li>[04/2026] Our paper <a href="https://arxiv.org/pdf/2604.06111"> ACE-Bench</a> is on arXiv</li>
    <li>[04/2026] Our paper <a href="https://arxiv.org/pdf/2601.07036">Mid-Think</a> is accepted at ACL 2026 Findings! 🎉</li>
    <li>[02/2026] Our paper <a href="https://arxiv.org/pdf/2602.01365"> When Domains Interact</a> is on arXiv</li>
    <li>[01/2026] Our paper <a href="https://arxiv.org/pdf/2601.07036">Mid-Think</a> is on arXiv</li>
