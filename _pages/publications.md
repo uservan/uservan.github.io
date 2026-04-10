@@ -15,7 +15,7 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 
 2026
 ---
-- ACE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments
+- AgentCE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments
   - **Wang Yang**, Chaoda Song, Xinpeng Li, Debargha Ganguly, Chuang Ma,   Shouren Wang, Zhihao Dou, Yuli Zhou, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://arxiv.org/pdf/2604.06111)] [[Code](https://github.com/uservan/AgentCE_Bench)]
 - When Domains Interact: Asymmetric and Order-Sensitive Cross-Domain Effects in Reinforcement Learning for Reasoning
