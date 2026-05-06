@@ -15,6 +15,9 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 
 2026
 ---
+- HugRAG: Hierarchical Causal Knowledge Graph Design for RAG
+  - Nengbo Wang, Tuo Liang, Vikash Singh, Chaoda Song, **Wang Yang**, Yu Yin, Jing Ma, Jagdip Singh, Vipin Chaudhary
+  - **ICML 2026**[[Paper](https://arxiv.org/abs/2602.05143)] 
 - AgentCE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments
   - **Wang Yang**, Chaoda Song, Xinpeng Li, Debargha Ganguly, Chuang Ma,   Shouren Wang, Zhihao Dou, Yuli Zhou, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://arxiv.org/pdf/2604.06111)] [[Code](https://github.com/uservan/AgentCE_Bench)]
