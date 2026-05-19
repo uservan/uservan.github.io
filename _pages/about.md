@@ -79,7 +79,7 @@ Teaching
 Services
 ======
 - volunteer @ COLM 2025
-- reviewer @ COLM2026, ICML 2026, ICLR 2026, AAAI 2025
+- reviewer @ NeurIPs2026, COLM2026, ICML 2026, ICLR 2026, AAAI 2025
 
 Honors and Awards
 =====
