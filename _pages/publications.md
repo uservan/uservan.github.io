@@ -15,6 +15,9 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 
 2026
 ---
+- A Survey on Agent Skills for LLMs: A Lifecycle Perspective from Construction to Ecosystems
+  - Wang Yang, Chaoda Song, Xinpeng Li, Shouren Wang, Nengbo Wang, Yanyan Zhang, Chuang Ma, Debargha Ganguly, Vikash Singh, Shuai Xu, Jing Ma, Yu Yin, Vipin Chaudhary, Xiaotian Han
+  - Under Review [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6746498)]
 - HugRAG: Hierarchical Causal Knowledge Graph Design for RAG
   - Nengbo Wang, Tuo Liang, Vikash Singh, Chaoda Song, **Wang Yang**, Yu Yin, Jing Ma, Jagdip Singh, Vipin Chaudhary
   - **ICML 2026**[[Paper](https://arxiv.org/abs/2602.05143)] 

@@ -29,6 +29,8 @@ News
 ======
 
 <ul class="news-list">
+   <li>[05/2026] Started Applied Scientist Internship at Amazon Rufus (Stores Foundational AI), Palo Alto, CA 🎉</li>
+   <li>[05/2026] Our survey paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6746498">A Survey on Agent Skills for LLMs</a> is available on SSRN</li>
    <li>[04/2026] Our paper <a href="https://arxiv.org/pdf/2604.06111"> AgentCE-Bench</a> is on arXiv</li>
    <li>[04/2026] Our paper <a href="https://arxiv.org/pdf/2601.07036">Mid-Think</a> is accepted at ACL 2026 Findings! 🎉</li>
    <li>[02/2026] Our paper <a href="https://arxiv.org/pdf/2602.01365"> When Domains Interact</a> is on arXiv</li>
@@ -59,6 +61,10 @@ Education
 
 Career
 ======
+* Applied Scientist Intern, 05/2026-Present
+  * Company: Amazon.com Services LLC
+  * Team: Stores Foundational AI - Rufus, Palo Alto, CA
+  * Duties includes: TBD
 * Java Development Engineer, 09/2022-09/2023
   * Company: Yaoshi Bang Inc
   * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
