@@ -16,7 +16,10 @@ I’m a second-year PhD student in [Case Western Reserve University](https://eng
 
 Research Interests
 ======
-* My research focuses on large language models (LLMs), with a particular emphasis on accelerating inference and enhancing their mathematical reasoning capabilities.
+My research focuses on large language models (LLMs), with particular emphasis on:
+- Reasoning — accelerating inference and enhancing their mathematical reasoning capabilities
+- Multi-agent systems — coordinating multiple agents to solve complex tasks
+- Long-horizon agents — reliable agent behavior over extended, multi-step tasks
 
 
 <style>
