@@ -32,7 +32,7 @@ News
 ======
 
 <ul class="news-list">
-   <li>[04/2026] Our paper <a href="https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub">A Survey on Efficient Protein Language
+   <li>[06/2026] Our paper <a href="https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub">A Survey on Efficient Protein Language
    Models</a> is accepted at TMLR 2026! 🎉</li>
    <li>[05/2026] Started Applied Scientist Internship at Amazon Rufus (Stores Foundational AI), Palo Alto, CA 🎉</li>
    <li>[05/2026] Our survey paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6746498">A Survey on Agent Skills for LLMs</a> is available on SSRN</li>
