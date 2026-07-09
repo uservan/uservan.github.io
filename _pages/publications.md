@@ -16,7 +16,7 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 2026
 ---
 - Path-Lock Expert: Separating Reasoning Mode in Hybrid Thinking via Architecture-Level Separation
-  - Shouren Wang*, **Wang Yang***, Chuang Ma, Debargha Ganguly, Vikash Singh, Chaoda Song, Xinpeng Li, Xianxuan Long, Vipin Chaudhary, Xiaotian Han 
+  - Shouren Wang<sup>*</sup>, **Wang Yang<sup>*</sup>**, Chuang Ma, Debargha Ganguly, Vikash Singh, Chaoda Song, Xinpeng Li, Xianxuan Long, Vipin Chaudhary, Xiaotian Han 
   - **COLM 2026** [[Paper](https://arxiv.org/abs/2604.27201)]
 - A Survey on Agent Skills for LLMs: A Lifecycle Perspective from Construction to Ecosystems
   - Wang Yang, Chaoda Song, Xinpeng Li, Shouren Wang, Nengbo Wang, Yanyan Zhang, Chuang Ma, Debargha Ganguly, Vikash Singh, Shuai Xu, Jing Ma, Yu Yin, Vipin Chaudhary, Xiaotian Han
@@ -31,7 +31,7 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
   - **Wang Yang**, Shouren Wang, Chaoda Song, Chuang Ma, Xinpeng Li, Nengbo Wang, Kaixiong Zhou, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://arxiv.org/pdf/2602.01365)]
 - Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers 
-  - **Wang Yang***, Shouren Wang*, Debargha Ganguly, Xinpeng Li, Chaoda Song, Vikash Singh, Vipin Chaudhary, Xiaotian Han. 
+  - **Wang Yang<sup>*</sup>**, Shouren Wang<sup>*</sup>, Debargha Ganguly, Xinpeng Li, Chaoda Song, Vikash Singh, Vipin Chaudhary, Xiaotian Han. 
   - **ACL 2026 Findings**[[Paper](https://arxiv.org/pdf/2601.07036)]
 
 
