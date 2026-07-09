@@ -32,7 +32,7 @@ News
 ======
 
 <ul class="news-list">
-   <li>[07/2025] Our paper <a href="https://arxiv.org/abs/2604.27201">Path-Lock Expert</a> is accepted at COLM 2026! 🎉</li>
+   <li>[07/2026] Our paper <a href="https://arxiv.org/abs/2604.27201">Path-Lock Expert</a> is accepted at COLM 2026! 🎉</li>
    <li>[06/2026] Our paper <a href="https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub">A Survey on Efficient Protein Language
    Models</a> is accepted at TMLR 2026! 🎉</li>
    <li>[05/2026] Started Applied Scientist Internship at Amazon Rufus (Stores Foundational AI), Palo Alto, CA 🎉</li>
