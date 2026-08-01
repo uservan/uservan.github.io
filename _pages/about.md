@@ -67,7 +67,7 @@ Education
 
 Career
 ======
-* Applied Scientist Intern, 05/2026-Present
+* Applied Scientist Intern, 05/2026-08/2026
   * Company: Amazon.com Services LLC
   * Team: Stores Foundational AI - Rufus, Palo Alto, CA
   * Duties includes: Multi-agent evaluation and training
