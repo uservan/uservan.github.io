@@ -70,7 +70,7 @@ Career
 * Applied Scientist Intern, 05/2026-Present
   * Company: Amazon.com Services LLC
   * Team: Stores Foundational AI - Rufus, Palo Alto, CA
-  * Duties includes: TBD
+  * Duties includes: Multi-agent evaluation and training
 * Java Development Engineer, 09/2022-09/2023
   * Company: Yaoshi Bang Inc
   * Duties includes: Supplemented the framework functions of Java projects, such as batch database function realization (e.g. the implementation of multiple data sources and batch operations under the MyBatis framework), unified operation of reading and writing excel files, file type verification, etc
@@ -85,7 +85,7 @@ Teaching
 Services
 ======
 - volunteer @ COLM 2025
-- reviewer @ AAAI2026, ARR2026, NeurIPs 2026, COLM 2026, ICML 2026, ICLR 2026, AAAI 2025 
+- reviewer @ AAAI 2027, ARR 2026, NeurIPs 2026, COLM 2026, ICML 2026, ICLR 2026, AAAI 2026 
 
 Honors and Awards
 =====
