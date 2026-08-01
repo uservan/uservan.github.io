@@ -15,6 +15,9 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 
 2026
 ---
+- Physical AI Governance: From Theory to Practice Across Life Cycle
+  - Wang Yang<sup>*</sup>, Shaobo Wang<sup>*</sup>, Hongxuan Liu<sup>*</sup>, Xiaoran Cai<sup>*</sup>, Yunyu He, Jingzong Zhou, Mengzhong Ma, Yi Yu, Rohit Sharma, Jingjing Fu, Peng Qi
+  - Under Review [[Paper](https://arxiv.org/pdf/2607.22877)]
 - Path-Lock Expert: Separating Reasoning Mode in Hybrid Thinking via Architecture-Level Separation
   - Shouren Wang<sup>*</sup>, **Wang Yang<sup>*</sup>**, Chuang Ma, Debargha Ganguly, Vikash Singh, Chaoda Song, Xinpeng Li, Xianxuan Long, Vipin Chaudhary, Xiaotian Han 
   - **COLM 2026** [[Paper](https://arxiv.org/abs/2604.27201)]
