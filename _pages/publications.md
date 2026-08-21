@@ -46,7 +46,7 @@ Models
   - TMLR 2026 [[Paper](https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub)]
 - Demystifying Hybrid Thinking: Can Llms Truly Switch Between Think And No-Think? 
   - Shouren Wang<sup>*</sup>, **Wang Yang<sup>*</sup>**, Xianxuan Long, Qifan Wang, Vipin Chaudhary, Xiaotian Han. 
-  - EMNLP 2026 [[Paper](https://arxiv.org/pdf/2510.12680v1)]
+  - **EMNLP 2026 Main** [[Paper](https://arxiv.org/pdf/2510.12680v1)]
 - Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning 
   - **Wang Yang**, Zirui Liu, Hongye Jin, Qingyu Yin, Vipin Chaudhary, Xiaotian Han. 
   - **NeurIPS 2025** [[Paper](https://arxiv.org/abs/2505.17315)]
