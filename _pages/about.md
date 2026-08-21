@@ -32,7 +32,7 @@ News
 ======
 
 <ul class="news-list">
-   <li>[08/2026] Our papers <a href="https://arxiv.org/pdf/2510.12680v1">Demystifying Hybrid Thinking</a> and <a href="https://arxiv.org/abs/2606.01914">Mechanistic Diagnostics of Spatial Lexical Bias in Multimodal Large Language Model Spatial Reasoning</a> are accepted at EMNLP 2026 Main Conference! 🎉</li>
+   <li>[08/2026] Our papers <a href="https://arxiv.org/pdf/2510.12680v1">Demystifying Hybrid Thinking</a> and <a href="https://arxiv.org/abs/2606.01914">Spatial Lexical Bias</a> are accepted at EMNLP 2026 Main Conference! 🎉</li>
    <li>[07/2026] Our paper <a href="https://arxiv.org/abs/2604.27201">Path-Lock Expert</a> is accepted at COLM 2026! 🎉</li>
    <li>[06/2026] Our paper <a href="https://www.preprints.org/frontend/manuscript/a90a85d9b4f3207985b9f9a6c4a42ec2/download_pub">A Survey on Efficient Protein Language
    Models</a> is accepted at TMLR 2026! 🎉</li>
