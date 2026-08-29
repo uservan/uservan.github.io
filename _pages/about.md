@@ -86,12 +86,12 @@ Teaching
 Services
 ======
 - volunteer @ COLM 2025
-- reviewer @ AAAI 2027, ARR 2026, NeurIPs 2026, COLM 2026, ICML 2026, ICLR 2026, AAAI 2026 
+- reviewer @ ICLR 2027, AAAI 2027, ARR 2026 MAY, NeurIPs 2026, COLM 2026, ICML 2026, ICLR 2026, AAAI 2026 
 
 Honors and Awards
 =====
 - NeurIPS 2025 Financial Aid Award
-- Conference on Language Modeling (COLM) 2025 Student Travel Grant.
+- Conference on Language Modeling (COLM) Student Travel Grant (2025, 2026).
 - National Encouragement Scholarship (2018-2019)
 - National-level Academic Scholarship (2017-2018)
 - First-class Scholarship (2017-2019) 
