@@ -15,7 +15,8 @@ You can also find my articles on [[my Google Scholar profile](https://scholar.go
 
 2026
 ---
-- Physical AI Governance: From Theory to Practice Across Life Cycle
+- Towards Trustworthy Physical AI:
+From Theory to Practice Across the Life Cycle
   - Wang Yang<sup>*</sup>, Shaobo Wang<sup>*</sup>, Hongxuan Liu<sup>*</sup>, Xiaoran Cai<sup>*</sup>, Yunyu He, Jingzong Zhou, Mengzhong Ma, Yi Yu, Rohit Sharma, Jingjing Fu, Peng Qi
   - Under Review [[Paper](https://arxiv.org/pdf/2607.22877)]
 - Path-Lock Expert: Separating Reasoning Mode in Hybrid Thinking via Architecture-Level Separation
