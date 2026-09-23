@@ -1,6 +1,6 @@
 ---
 title: '[Research Preview] Where Does a Decision Model Break? A Needle-in-a-Haystack Test for Jev'
-date: 2026-09-23
+date: 2026-09-22
 permalink: /posts/2026/09/jev-needle/
 tags:
   - LLM
