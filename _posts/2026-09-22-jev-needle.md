@@ -41,6 +41,38 @@ Code and data: [github.com/uservan/jevneedlebench](https://github.com/uservan/je
 
 ### ① Retrieval and ② selection: no degradation
 
+**① Retrieval** — one record hidden in a haystack of the same kind of records (kv) or in essay text; 4 options.
+
+```text
+The access code of user_37874 is code_18405.
+The access code of user_52462 is code_22626.
+...                                              ← 70–1,400 records; the target sits at 10% / 50% / 90%
+The access code of user_28195 is code_31340.     ← target
+...
+Q: According to the context, what is the access code of user_28195?
+   option_0 code_20709   option_1 code_31340 ✓   option_2 code_59847   option_3 code_18500
+```
+
+In the essay version the same four records are inserted as sentences between Paul Graham paragraphs:
+
+```text
+The world then was divided into two groups, grownups and kids. Grownups, like some kind of ...
+The access code of user_86359 is code_20709.          ← one of the wrong options' records
+[6] So if you make it clear you're going to succeed no matter what, and the only reason ...
+The access code of user_28195 is code_31340.          ← target, at the 50% mark
+Symbols differ from strings in that you can test equality by comparing a pointer ...
+```
+
+**② Selection** — 64 key records (target + 63 candidate users) scattered through the haystack; 2 to 64 of their codes are offered as options. The context is identical for every option count.
+
+```text
+The access code of user_28391 is code_84078.     ← target
+The access code of user_25247 is code_15539.     ← candidate user
+...
+Q: According to the context, what is the access code of user_28391?
+   option_0 code_84078 ✓   option_1 code_20405   option_2 code_68467   ...   option_7 code_54839
+```
+
 All 75 cells are at 100% with the correct option at probability 1.0, including 20k-token contexts (≈30k Jev tokens, close to its limit), 64 options, needles in the middle, and both haystack types. Natural-text haystacks (essays) reach 28k tokens, also at 100%.
 
 <img src="/images/post/jev_needle_h1_retrieval_kv.png" width="600">
@@ -48,6 +80,31 @@ All 75 cells are at 100% with the correct option at probability 1.0, including 2
 <img src="/images/post/jev_needle_h2_selection.png" width="600">
 
 ### ③ State tracking: finding is fine, merging is not
+
+**③ State tracking** — a day-ordered log of many users; the target user (`user_17824`) has *k* lines spread through it. Two questions on the same log.
+
+```text
+Day 1: user_69288 joined project_K.
+Day 5: user_00434 joined project_E.
+...
+Day 38: user_17824 joined project_H.     ← target, update 1 of 4
+...
+Day 112: user_17824 joined project_E.    ← update 2
+...
+Day 188: user_17824 joined project_A.    ← update 3
+...
+Day 262: user_17824 left project_H.      ← update 4
+...
+Day 299: user_22671 joined project_A.
+
+Event lookup:  Which project did user_17824 join on day 188?
+   project_F   project_H   project_A ✓   project_G
+
+Final state:   Rules: joining adds a project and keeps the others; leaving removes only that project; ...
+               Every user starts with no projects. After the last entry, which projects does user_17824 belong to?
+   project_E   project_A   project_A, project_E ✓   (none)
+               (earlier state)  (one update skipped)                  (another user's state)
+```
 
 Event lookup (one line) is 100% in every cell. Final state (merge *k* lines) falls with both axes:
 
@@ -71,6 +128,13 @@ Both reuse the 900 final-state items and append one line to each log, written by
 `Summary as of the last entry: user_17824 currently belongs to: project_A, project_E.` The *correct* version states the
 true final set; the *stale* version states the set before the last update, the most common way a summarizer fails.
 
+```text
+...
+Day 299: user_22671 joined project_A.
+Summary as of the last entry: user_17824 currently belongs to: project_A, project_E.   ← correct
+Summary as of the last entry: user_17824 currently belongs to: project_A.              ← stale (last update missing)
+```
+
 **Does Jev use a compiled state?** Same final-state question, summary line appended.
 
 | summary | accuracy (all 30 cells) | note |
@@ -79,6 +143,13 @@ true final set; the *stale* version states the set before the last update, the m
 | stale | follows the stale summary 61–100% of the time when it is among the options | 68% at 1k tokens → 93% at 20k: the longer the log, the less it checks it |
 
 **Can Jev check a summary?** Same log and line, but the question is *is that summary correct?* with two options.
+
+```text
+Q: ... The last line of the log is a summary of user_17824's projects.
+      According to the log entries and the rules, is that summary correct?
+   Correct: the summary matches the user's projects after the last log entry.
+   Incorrect: the summary does not match the user's projects after the last log entry.
+```
 
 | summary | judged correctly | note |
 | --- | --- | --- |
