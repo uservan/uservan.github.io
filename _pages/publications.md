@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications (* denotes equal contribution)"
+title: "Selected Publications (* denotes equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [[my Google Scholar profile](https://scholar.google.com/citations?user=5tBcNe0AAAAJ&hl=en)]
+You can also find all of my articles on [[my Google Scholar profile](https://scholar.google.com/citations?user=5tBcNe0AAAAJ&hl=en)]
 
 <!-- 
 {% if site.author.googlescholar %}
@@ -25,9 +25,6 @@ From Theory to Practice Across the Life Cycle
 - A Survey on Agent Skills for LLMs: A Lifecycle Perspective from Construction to Ecosystems
   - Wang Yang, Chaoda Song, Xinpeng Li, Shouren Wang, Nengbo Wang, Yanyan Zhang, Chuang Ma, Debargha Ganguly, Vikash Singh, Shuai Xu, Jing Ma, Yu Yin, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6746498)]
-- HugRAG: Hierarchical Causal Knowledge Graph Design for RAG
-  - Nengbo Wang, Tuo Liang, Vikash Singh, Chaoda Song, **Wang Yang**, Yu Yin, Jing Ma, Jagdip Singh, Vipin Chaudhary
-  - **ICML 2026**[[Paper](https://arxiv.org/abs/2602.05143)] 
 - AgentCE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments
   - **Wang Yang**, Chaoda Song, Xinpeng Li, Debargha Ganguly, Chuang Ma,   Shouren Wang, Zhihao Dou, Yuli Zhou, Vipin Chaudhary, Xiaotian Han
   - Under Review [[Paper](https://arxiv.org/pdf/2604.06111)] [[Code](https://github.com/uservan/AgentCE_Bench)]
