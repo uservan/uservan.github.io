@@ -15,6 +15,9 @@ You can also find all of my articles on [[my Google Scholar profile](https://sch
 
 2026
 ---
+- What Can't Jev Decide? Probing the Limits of One-Pass Decision Models
+  - **Wang Yang**, Xinpeng Li, Yanyan Zhang, Chuang Ma, Shouren Wang, Jianzhe Wei, Liqin Ye, Xiaoran Cai, Mohsen Hariri, Vipin Chaudhary, Xiaotian Han
+  - Under Review [[Paper](https://arxiv.org/abs/2610.24929)]
 - Towards Trustworthy Physical AI:
 From Theory to Practice Across the Life Cycle
   - Wang Yang<sup>*</sup>, Shaobo Wang<sup>*</sup>, Hongxuan Liu<sup>*</sup>, Xiaoran Cai<sup>*</sup>, Yunyu He, Jingzong Zhou, Mengzhong Ma, Yi Yu, Rohit Sharma, Jingjing Fu, Peng Qi
