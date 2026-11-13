@@ -32,7 +32,7 @@ News
 ======
 
 <ul class="news-list">
-   <li>[11/2026] Our papers <a href="https://openreview.net/forum?id=lpYrb3uVJj">CAPE: Spherical Caps of Accumulated Query Experience for Continual Retrieval</a> and <a href="https://arxiv.org/abs/2610.15258">Sequent-Prover: Training Agents for Formal, Checkable SMT-based Reasoning</a> are accepted at EACL 2027 Findings! 🎉</li>
+   <li>[11/2026] Our papers <a href="https://openreview.net/forum?id=lpYrb3uVJj">CAPE</a> and <a href="https://arxiv.org/abs/2610.15258">Sequent-Prover</a> are accepted at EACL 2027 Findings! 🎉</li>
    <li>[10/2026] Our paper <a href="https://arxiv.org/abs/2610.24929">What Can't Jev Decide?</a> is on arXiv</li>
    <li>[08/2026] Our papers <a href="https://arxiv.org/pdf/2510.12680v1">Demystifying Hybrid Thinking</a> and <a href="https://arxiv.org/abs/2606.01914">Spatial Lexical Bias</a> are accepted at EMNLP 2026 Main Conference! 🎉</li>
    <li>[07/2026] Our paper <a href="https://arxiv.org/abs/2604.27201">Path-Lock Expert</a> is accepted at COLM 2026! 🎉</li>
